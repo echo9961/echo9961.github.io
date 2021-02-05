@@ -1,6 +1,7 @@
 html{font-size: 62.5%;}
 .greeting{
     margin: 50px;
+    padding: 5px;
     font-size: 6.0rem;
     border-style: solid;
     background-color: rgb(205, 165, 92); 
@@ -9,14 +10,26 @@ html{font-size: 62.5%;}
 .hobby-list{
     font-size: 2.0rem;
     color: rgb(99, 6, 6); 
-    border-style: dotted;}
+    border-style: double;}
 h2{
     font-size: 3.0rem;
     margin: 75px;
+    padding: 5px;
     border-style: solid;
     text-align: center;
     background-color: rgb(136, 153, 39);
      color:rgb(27, 36, 58);}
 p{
     font-size: 2.4rem;
-    border-style: groove;}
+    border-style: groove;
+    background-color: rgb(24, 153, 147);}
+
+#ac-playlist{
+    font-size: 2.4rem;
+}
+
+.game-soundtracks{
+    font-size: 2.4rem;
+    border-style: double;
+    color: rgb(99, 6, 6);
+}
